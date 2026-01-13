@@ -16,4 +16,4 @@ Beginner Python exercises and small projects.
 
 ## How to run
 ```bash
-python guessing_game.py
+pick a number game.py
